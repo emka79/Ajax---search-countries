@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://images.pexels.com/photos/2422/sky-earth-galaxy-universe.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial;
+}
+
+h1 {
+    margin: 5vh;
+}
+
+h1, h2, h3 {
+    color: white;
+    text-align: center;
+}
+
+div {
+    width: 1400px;
+	text-align: center;
+}
+
+input {
+    text-align: center;
+    padding: 10px 60px;
+}
+
+button {
+    border: 2px solid white;
+    background-color: inherit;
+    padding: 10px 60px;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+ul li {
+    color: white;
+    margin-left: -40px;
+    font-size: 20px;
+    padding: 10px;
+}
